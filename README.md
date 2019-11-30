@@ -6,3 +6,5 @@ The goals are:
 3.	Built price prediction model based on the features selected, several models will be applied. 
 4.	Evaluate the models and choose the best one
 
+![Airbnb distribution pie](https://user-images.githubusercontent.com/54901881/69894745-1060bd00-1378-11ea-8dc3-98d4485f5809.png)
+
