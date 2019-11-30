@@ -7,4 +7,5 @@ The goals are:
 4.	Evaluate the models and choose the best one
 
 ![Airbnb distribution pie](https://user-images.githubusercontent.com/54901881/69894745-1060bd00-1378-11ea-8dc3-98d4485f5809.png)
+![Heatmap for selected factors](https://user-images.githubusercontent.com/54901881/69894931-16a46880-137b-11ea-8daf-928c0c5d45f5.png)
 
